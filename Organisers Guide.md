@@ -522,6 +522,14 @@ If any of these are not doable, there are budget implications, so go redo the bu
 . announced to email lists
 . announced to Leancamp Leaders
 . announced to Ambassadors
+. post to plancast
+. post to lanyrd
+. post to attending.io
+. submit to startup digest
+. submit to local lean startup meetup (announce it as a meetup event if possible, for higher conversion)
+
+ (take from old Lean events in London guide)
+
 
 # Seeding Sessions (4-2 weeks before)
 . About 30% of the sessions slots covered by people who know have prepped sessions, you'll likely have a full board. 
