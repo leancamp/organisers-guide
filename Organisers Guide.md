@@ -72,8 +72,6 @@ If you have any questions, please ask Sal or a Leancamp Leader.
 
 Thanks to you for organising a Leancamp! 
 
-Thanks to those who contributed to this guide: _________.
-
 Thanks to Saul Albert and Nicky Smyth for co-founding Leancamp with me in those uncertain early days.
 
 Thanks to the Leancamp Leaders who’ve gotten involved since then, making so many contributions – organising, helping share knowledge, and helping steer Leancamp as it’s grown. 
@@ -101,6 +99,19 @@ The Quickstart will get you rolling, and you'll be able to learn as you go. As y
 # Quickstart
 
 Here's a general idea of how things work overall. Your Advisor will help you learn the Leancamp Way as you go.
+
+The first thing is to seek the easy path:
+1. Get a Leancamp Leader to help you. You can find them at a Leancamp, or ask Sal to make some intros.
+2. Contact local conferences to open partnership discussions. The basic idea is that conferences benefit from including Leancamp under their umbrella. They get:
+* a much stronger sense of community at their conference, because Leancamp runs first and sparks a lot of relationships between conference attendees.
+* stronger grassroots startup credibility, since Leancamp is a startup-friendly price and attracts well-respected founders and experts
+* access to a better set of speakers, since strong founders are often motivated to come to Leancamp more than more formal conferences
+
+
+
+
+
+If the partnership route doesn't work out, here's plan B:
 
 1. Get 2-3 local organisers involved. Ideally, someone who's seen an open space before. You don't need a bigger team, yet.
 2. Start building the email list at http://www.wantworkshop.com/workshops/leancamp for your city. This is very important, as it'll make our lives much easier once the venue is confirmed and we need to sell the first tickets.
@@ -524,7 +535,7 @@ If any of these are not doable, there are budget implications, so go redo the bu
 . announced to Ambassadors
 . post to plancast
 . post to lanyrd
-. post to attending.io
+. post to f6s
 . submit to startup digest
 . submit to local lean startup meetup (announce it as a meetup event if possible, for higher conversion)
 
