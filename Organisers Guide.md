@@ -1,58 +1,5 @@
 # Organisers’ Guide
 
-Open Source	5
-Credits	7
-Getting Started	11
-Quickstart	12
-What is Leancamp?	14
-Leancamp Community Ethos	16
-Putting your city on the map	16
-Benefits to the local community	16
-Little Startup Superheroes	17
-6 ways Leancamp is different.	20
-Your Role As An Organiser	29
-Where to focus to succeed.	29
-The Core Leancamp Process	30
-Ideas & experiments	30
-Affordable Loss & Runway	30
-The Leancamp Minimum Viable Product	31
-Planning by getting options	32
-Getting the go from Hosting Partners	34
-Learning from the metrics	38
-The point of no return	39
-Keeping financial risks under control	40
-Iterating and improving	40
-Big names	42
-Your tools and gauges	43
-Keeping Balance	43
-Building our local Ambassador network	46
-Using your Ambassador network	47
-The mechanics of ticket releases	49
-Showtime! How the day runs	55
-Session Planning	56
-Volunteer and logistics management	57
-Measuring Success Overall	59
-Resources	60
-Checklists	61
-Location selection	61
-First ticket release	62
-Seeding Sessions (4-2 weeks before)	62
-Creating the schedule for the day (2 weeks before)	63
-Supplies to order (2-3 weeks before)	64
-Catering order	64
-Day before (on-site)	65
-Leancamp Day Checklists	66
-Handy Templates	73
-Ambassador Invite	73
-Host Invite	74
-FAQ	75
-How do we bring high-profile leaders to our city?	75
-What about sponsors?	75
-Can my organisation get credit if they aren't hosting?	76
-Should we partner with conferences?	77
-What about people who sell stuff?	78
-How large are organizing teams usually?	79
-More Questions?	80
 
 # Open Source
 
