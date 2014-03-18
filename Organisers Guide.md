@@ -504,30 +504,30 @@ If any of these are not doable, there are budget implications, so go redo the bu
 
 ## Creating the schedule for the day (2 weeks before)
 
-. Late start so people have 30-60 minutes to arrive and have coffee/breakfast before the planning session starts.
-. One hour planning session to start the day.
-. One hour for lunch, so people can mingle.
-. At least 2-3 session timeslots before lunch so people have a sense of who they want to talk to at lunch.
-. Never more than 3-4 sessions in a row without a coffee break. (So people keep their energy up and can make better personal connections.)
-. Sessions are 30 minutes.
-. 10 minute gaps between sessions to allow people time to go to the board and decide what’s next.
-. Final session slot for everyone to regroup in the same room.
-. Know what pub to send everyone to afterwards!
+* Late start so people have 30-60 minutes to arrive and have coffee/breakfast before the planning session starts.
+* One hour planning session to start the day.
+* One hour for lunch, so people can mingle.
+* At least 2-3 session timeslots before lunch so people have a sense of who they want to talk to at lunch.
+* Never more than 3-4 sessions in a row without a coffee break. (So people keep their energy up and can make better personal connections.)
+* Sessions are 30 minutes.
+* 10 minute gaps between sessions to allow people time to go to the board and decide what’s next.
+* Final session slot for everyone to regroup in the same room.
+* Know what pub to send everyone to afterwards!
 
 
 ## Supplies to order (2-3 weeks before)
  
 * Full-size floor camera tripods.1 for each room. (One of the Leaders will fly in with flip cams and SD cards.)
-* blue tack x 4 packs -
+* [blue tack](http://www.amazon.co.uk/s/ref=sr_nr_p_76_1?rh=n%3A192413031%2Ck%3Ablue+tac%2Cp_76%3A419159031&keywords=blue+tac&ie=UTF8&qid=1395172593&rnid=419157031) x 4 packs
 * [Large index cards](http://www.amazon.co.uk/Star-Record-Cards-Ruled-152x102mm/dp/B004VUU3Q6/ref=pd_sim_office_7?ie=UTF8&refRID=14HYR6GYJQW14MDA655T) x 200 (for schedule board)
 * [Small index cards](http://www.amazon.co.uk/Star-Record-Cards-Ruled-152x102mm/dp/B004VUU3Q6/ref=pd_sim_office_7?ie=UTF8&refRID=14HYR6GYJQW14MDA655T) x 2000 (for post ups)
-* Masking tape x 10 rolls
-* A4 sheets X 40 sheets per participant
-* Sharpies or fine-tip felt pens x 1 per participant
-* Name tags x 1 per participant
+* [Masking tape](http://www.amazon.co.uk/Masking-painting-decorating-garage-bodyshop/dp/B00534386Q/ref=sr_1_1?ie=UTF8&qid=1395158311&sr=8-1&keywords=Masking+tape) x 10 rolls
+* [A4 sheets](http://www.amazon.co.uk/Star-Office-Copier-Multifunctional-Ream-Wrapped/dp/B000I6QZNM/ref=sr_1_1?ie=UTF8&qid=1395158348&sr=8-1&keywords=A4+sheets)(prime) X 40 sheets per participant
+* [Sharpies](http://www.amazon.co.uk/s/?ie=UTF8&keywords=sharpie+pens&tag=googhydr-21&index=aps&hvadid=32594859905&hvpos=1t1&hvexid=&hvnetw=g&hvrand=2995424486417251717&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_4iqm29w446_b) or fine-tip felt pens x 1 per participant
+* [Name tags](http://www.amazon.co.uk/Star-Name-Badges-Landscape-40x75mm/dp/B000I2GRTS/ref=sr_1_4?s=officeproduct&ie=UTF8&qid=1395172735&sr=1-4&keywords=Name+tags) x 1 per participant
 * Pre-printed A0 schedule sheet x 5
 * 5-10 extension chords/power
-* Envelopes (for )
+* [A4 Envelopes](http://www.amazon.co.uk/s/?ie=UTF8&keywords=a4+envelopes&tag=googhydr-21&index=aps&hvadid=32594859905&hvpos=1t1&hvexid=&hvnetw=g&hvrand=15944906796893565254&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_8mjw7tc738_b)  (for the crowd-notes)
 (Always err on the side of over-ordering!)
 
 ## Catering order
