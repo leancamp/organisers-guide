@@ -17,11 +17,11 @@ If you have any questions, please ask Sal or a Leancamp Leader.
 
 # Credits
 
-Thanks to you for organising a Leancamp! 
+Thanks to you for organising a Leancamp!
 
 Thanks to Saul Albert and Nicky Smyth for co-founding Leancamp with me in those uncertain early days.
 
-Thanks to the Leancamp Leaders who’ve gotten involved since then, making so many contributions – organising, helping share knowledge, and helping steer Leancamp as it’s grown. 
+Thanks to the Leancamp Leaders who’ve gotten involved since then, making so many contributions – organising, helping share knowledge, and helping steer Leancamp as it’s grown.
 
 Thanks to Ahmad Bakhiet, Past President of the UCL Entrepreneurship Society, who wrote the initial checklists.
 
@@ -33,13 +33,13 @@ Thanks to Eduardo Comba (flickr: ecomba), Daniel Morris (flickr: anima), and wil
 
 # Getting Started
 
-Thanks for volunteering to organise Leancamp! 
+Thanks for volunteering to organise Leancamp!
 
 We have a long-term view of supporting an internationally-connected, inter-disciplinary, inclusive community-centred around startups. Leancamp is for the startup community, by the startup community.
 
 This means we make sure organisers have an as easy, stress-free time as possible – and can focus only on the needs of the community.
 
-So, Leancamp is radically different from most startup events. We’ve removed things like up-front payments, the need to get sponsors, and the need to build a big team. 
+So, Leancamp is radically different from most startup events. We’ve removed things like up-front payments, the need to get sponsors, and the need to build a big team.
 
 The Quickstart will get you rolling, and you'll be able to learn as you go. As you do, you'll understand how the way we do things is going to save you a ton of time, and how you’ll be powerful catalyst in your startup community.
 
@@ -62,12 +62,12 @@ If the partnership route doesn't work out, here's plan B:
 
 1. Get 2-3 local organisers involved. Ideally, someone who's seen an open space before. You don't need a bigger team, yet.
 2. Start building the email list at http://www.wantworkshop.com/workshops/leancamp for your city. This is very important, as it'll make our lives much easier once the venue is confirmed and we need to sell the first tickets.
-3. Before moving on to the next steps, get Advisor on your team. Ask any Leancamp Leader or prior organiser if you know one. If not, ask Sal and he'll intro you. Your  Advisor's job is to provide continuity, so your Leancamp experience is consistent with other cities. They'll do this by being part of your core organisers team, included in your communication and meetings, your connection to the Leancamp Leaders group. 
+3. Before moving on to the next steps, get Advisor on your team. Ask any Leancamp Leader or prior organiser if you know one. If not, ask Sal and he'll intro you. Your  Advisor's job is to provide continuity, so your Leancamp experience is consistent with other cities. They'll do this by being part of your core organisers team, included in your communication and meetings, your connection to the Leancamp Leaders group.
 4. Sit down with your Advisor for 20 minutes to plan a quick budget, and show you the budget of previous events.  Get an idea of necessary ticket prices and volumes to break even. You’ll plan out 2 more budgets, the "relax" point where we'll no longer need to hustle to sell tickets, and the maximim size, when we can add a lot of extras to make a better event. 
 5. Find a venue. Make requests to all possible Venue Partners at once.
 6. Start reaching out to invite local community leaders to be Leancamp Ambassadors.
-7. Once a date is set, announce the event and release Earlyvangelist tickets. 
-8. Get the conversations going about topics. Setup your event as a category at leancamp.uservoice.com and encourage speakers and ambassadors to suggest sessions there. 
+7. Once a date is set, announce the event and release Earlyvangelist tickets.
+8. Get the conversations going about topics. Setup your event as a category at leancamp.uservoice.com and encourage speakers and ambassadors to suggest sessions there.
 9. After Earlyvangelist tickets are sold, we look at who's attending and consider balancing the event out. If there's one group that is particularly strong, we don't want them to overwhelm the event, so we release tickets access codes for discount tickets to underrepresented communities with the help of our Ambassadors.
 
 # What is Leancamp?
@@ -76,7 +76,7 @@ Leancamp is an open, interactive, multi-track event – which connects Lean, Agi
 
 Leancamp is a bustling conference, with tons of rooms and fast, 30-minute sessions on different topics. Sessions can be talks, workshops, discussions, or other interactive formats. The difference is that the sessions are planned by the participants that day!
 
-Everyone has the power over the agenda, to contribute their experience, and to interact with thought-leaders and experienced founders. Participants drive the topics based on their needs. 
+Everyone has the power over the agenda, to contribute their experience, and to interact with thought-leaders and experienced founders. Participants drive the topics based on their needs.
 
 We use a technique known as Open Space, which is what Unconferences and Barcamps use.
 
@@ -92,9 +92,9 @@ Leancamp, like emerging startup communities, doesn’t play a zero-sum game. We 
 
 ## Benefits to the local community
 
-Leancamp is something people join, not attend. 
+Leancamp is something people join, not attend.
 
-We’ve seen Leancamp galvanise local startup communities. This happens by drawing on unlikely local startup supporters, and helping local cliques meet and help each other. 
+We’ve seen Leancamp galvanise local startup communities. This happens by drawing on unlikely local startup supporters, and helping local cliques meet and help each other.
 
 You’ll strengthen your local startup community because instead of just flying in external experts for a day, you’ll build up local strengths and help them build relationships with international leaders.
 
@@ -105,11 +105,11 @@ There’s a growing list of notable startup leaders who will happily jump on a p
 
 The culture we want to encourage is of humility, acceptance that we all have a lot to learn, and of a practical attitude to what works, what doesn't and in what context.  
 
-It's great when we're graced by startup superheroes but that's a bonus.  They, just like everyone else, stand up and offer their session in the morning planning session. 
+It's great when we're graced by startup superheroes but that's a bonus.  They, just like everyone else, stand up and offer their session in the morning planning session.
 
-This overrides the reverence we have to superstars, and allows us to focus on learning in context, from other who are 6 months or 1 year ahead of us, not just those who made it super-big. 
+This overrides the reverence we have to superstars, and allows us to focus on learning in context, from other who are 6 months or 1 year ahead of us, not just those who made it super-big.
 
-This is how we get local stars like Andreas Klinger, Johanna Kollmann, Lukas Fittl and Tendayi Viki – people who keep strengthening their local startup community. 
+This is how we get local stars like Andreas Klinger, Johanna Kollmann, Lukas Fittl and Tendayi Viki – people who keep strengthening their local startup community.
 
 Leancamp builds community by identifying our emerging startup leaders, and giving them a platform to help others.
 
@@ -124,18 +124,18 @@ Leancamp builds community by identifying our emerging startup leaders, and givin
 
 
 # 6 ways Leancamp is different.
-## We’re about knowledge-sharing - inclusive to all. 
+## We’re about knowledge-sharing - inclusive to all.
 
-We want to learn from each other. We want to seed a culture of sharing experiences, being open and humble about what doesn't work, and of seeking to learn from other communities rather than create cliques and exclusivity.   Leancamp played a big role in connecting entrepreneurship to user experience design, and Lean Startup to Business Model Generation. 
+We want to learn from each other. We want to seed a culture of sharing experiences, being open and humble about what doesn't work, and of seeking to learn from other communities rather than create cliques and exclusivity.  Leancamp played a big role in connecting entrepreneurship to user experience design, and Lean Startup to Business Model Generation.
 
 We want to continue this tradition of connecting communities.
 
 ## We highly value local and practical knowledge.  
  Connecting to others actually doing this stuff is hugely valuable.  It's the practitioners who push the state of the art, and they're right at home. External people add to this, help build excitement, and create international relationships into your city, but the real value is in engaging the local community in a new way.
 
-## No sponsors. 
+## No sponsors.
 
-Leancamp is for us, by us. 
+Leancamp is for us, by us.
 
 We stay focused on that by keeping costs down and paying our own way.
 
@@ -143,31 +143,31 @@ We’ve tried sponsorship in many formats in the past, and while, at first or in
 
 If people approach us to sponsor, that’s great! We can use their help. Check the FAQ for ways they can contribute.
 
-## Nobody gets paid. 
+## Nobody gets paid.
 
 Not even if you wrote a book! :)
 
 This keeps things real and simple. With money off the table, we’re all aligned in a common community goal.
 
 
-## People first. 
+## People first.
 
-People are our atomic unit.  Not startups or methodologies or investment rounds or content. 
+People are our atomic unit.  Not startups or methodologies or investment rounds or content.
 
 Our goal is to help people improve and achieve their goals, and help them find others who will help them on their journey. Thus, Leancamp puts a strong emphasis on people over everything else.  
- You won't see organisation logos all over Leancamp, instead we'll raise the profile of the people in those organisations who want to contribute. They are the champions that deserve to be heard, and people will only respect their organisations as a side-effect of respecting them. 
+ You won't see organisation logos all over Leancamp, instead we'll raise the profile of the people in those organisations who want to contribute. They are the champions that deserve to be heard, and people will only respect their organisations as a side-effect of respecting them.
 
-You also won't see people rallying around a certain approach. Instead, you see leaders describing where they're at now, and discussing what to improve. 
+You also won't see people rallying around a certain approach. Instead, you see leaders describing where they're at now, and discussing what to improve.
 
 You will likely see people with books to sell, or some equivalent! But the emphasis is on the author, not their product, and Leancamp gives them the freedom to make further contributions unconstrained by their previous publications. For example, Brant Cooper and Alex Osterwalder put on workshops at Leancamp that were new and experimental.
 
-## No room for egos. 
+## No room for egos.
 
 Just like sponsors can't buy their way in but are welcome to contribute, nobody gets to "keynote" or gets preferential treatment. Everybody suggests their sessions together and the participants retain the option of voting with their feet.
 
 On top of that, this frees us to work on an awesome event, rather than devote extra attention to specific people.
 
-That said, recognized contributors should be promoted on the events page, and as with anyone else, we should help advise them about what the should do or what topics they should cover. 
+That said, recognized contributors should be promoted on the events page, and as with anyone else, we should help advise them about what the should do or what topics they should cover.
 
 We can also offer to waive their ticket fee and possibly to pay for their flights if we can afford it. Many contributors are happy to buy their own flight, and take the risk of being reimbursed if we make the ticket sales.
 
@@ -175,7 +175,7 @@ We can also offer to waive their ticket fee and possibly to pay for their flight
 
 At most conferences, the role of the organiser is to choose speakers and talks, and to sell sponsorship and tickets. Leancamp is different.
 
-Rather than curate a conference, you'll be curating communities, building an intersection of topics by liaising with other community leaders, and encourage local practitioners to share their experiences. 
+Rather than curate a conference, you'll be curating communities, building an intersection of topics by liaising with other community leaders, and encourage local practitioners to share their experiences.
 
 Your main responsibility isn't to make a big event that makes money, it's to create a balanced event that fosters sharing and peer support.
 
@@ -222,31 +222,31 @@ Making Leancamp work has many different moving parts. Making the best Leancamp p
 
 For example, with venues, don't ask for a single date. Instead, get a range of possible dates from the venue, so we can narrow that down later based on other constraints (availability of speakers, other events popping up, other Leancamps bringing in speakers we can share, etc.)
 
-Don’t optimise by yourself. Communicate options frequently and promiscuously, to your Ambassadors and the Leancamp Leaders. Optimizations will appear. 
+Don’t optimise by yourself. Communicate options frequently and promiscuously, to your Ambassadors and the Leancamp Leaders. Optimizations will appear.
 
 ## Choosing a location
 
-See the checklist section for our venue requirements. 
+See the checklist section for our venue requirements.
 
-Generally, we only work with venues operated by people who already support startups or innovation, and who have someone personally interested in supporting Leancamp. Things go much more smoothly when we're aligned in our goals, and have an internal ally, rather than simply a venue offering space. 
+Generally, we only work with venues operated by people who already support startups or innovation, and who have someone personally interested in supporting Leancamp. Things go much more smoothly when we're aligned in our goals, and have an internal ally, rather than simply a venue offering space.
 
 Typically, we work with universities or training facilities. They're usually quite keen to work with us to be more closely connected with entrepreneurs, because they tend to be good citizens, and also because we offer their students authentic exposure to a leading entrepreneurial community.
 
 For universities, we normally offer an allocation of free tickets for their students, plus give even more students access as volunteers.
 
-### Getting the go from Hosting Partners 
+### Getting the go from Hosting Partners
 
-As soon as you have your Advisor, we’re going to build a localised buzz around all our possible venue partners, letting them know who the prior hosts were and how they benefitted. 
+As soon as you have your Advisor, we’re going to build a localised buzz around all our possible venue partners, letting them know who the prior hosts were and how they benefitted.
 
 We usually go with the first that comes back saying, "Great! Let's do it. What do you need?" This means they're a true partner and will align with us, work with us well and generally our life easier. (As opposed to people who don't get it and start treating it like a negotiation.)
 
 To get a venue partner in cities where we're not well-recognised, we need to do some social engineering. This has two parts:
 
-1. We create a sense of excitement. This is done by activating as many introduction as possible to the same people and organisations.  If a potential partner hears about us from more and more people, they are more likely to get excited about the possibility.  When people keep hearing about Leancamp, they know it'll be significant so are more likely to act. Name dropping our partners in other cities and our past supporters is helpful, but set expectations to be about building community, not having famous people show up. 
+1. We create a sense of excitement. This is done by activating as many introduction as possible to the same people and organisations.  If a potential partner hears about us from more and more people, they are more likely to get excited about the possibility.  When people keep hearing about Leancamp, they know it'll be significant so are more likely to act. Name dropping our partners in other cities and our past supporters is helpful, but set expectations to be about building community, not having famous people show up.
 2. We create a sense of urgency. We are clear that we are approaching multiple partners, but there can be only one, and we'll work with whoever sees mutual benefit and wants to start right away. Universities are competitive so will often act on the basis of getting in first. (This can also backfire, so we must quickly emphasise the inclusive aspects later, and make specific efforts to include the faculty and community around venues that didn’t get to host.)
 
 
-It's fine to email them cold, but ideally, you can get warm introductions through the ambassador network and the Leancamp Leaders, so share the list of venues with them. 
+It's fine to email them cold, but ideally, you can get warm introductions through the ambassador network and the Leancamp Leaders, so share the list of venues with them.
 
 # Learning from the metrics
  
@@ -254,7 +254,7 @@ We email our waiting list and make noise, taking a close look at 2 numbers on ou
 . The conversion rate 
 . The number of unique visitors 
 
-We watch these numbers from the beginning, and let them inform our Customer Development effort. 
+We watch these numbers from the beginning, and let them inform our Customer Development effort.
 
 At first, both Organisers and Ambassadors should plan on a bit of Customer Development, as we're trying to open a new market for Leancamp, so will need to understand our customers'  buying decisions and how we can make Leancamp valuable to them.
 
@@ -284,7 +284,7 @@ Once we have enough cash to buy some more plane tickets, we invite and announce 
 
 At this point, we don’t need to worry about financial viability anymore, so we can turn our full attention create the best possible experience for our participants with the money from additional ticket sales.
 
-As we release batches of tickets, we reduce the discount.  This pushes people to buy tickets sooner and allows us to add bigger costs based on the event’s momentum. 
+As we release batches of tickets, we reduce the discount.  This pushes people to buy tickets sooner and allows us to add bigger costs based on the event’s momentum.
 
 Successful events start to profit, so we either improve the event, or pool it the Leancamp account for future events. The Leancamp account is transparent to all organisers and Leancamp Leaders.
 
@@ -294,7 +294,7 @@ As we announce more and better-regnised names, it will attract people who just w
 
 When we have the size and can cover the cost of business class flights, we put the word out to internationally-recognised leaders to see if they’re interested and available.
 
-**Do this with the help of the Leancamp Leaders** as they already have these relationships so it's a friendlier ask and easier for everyone. This makes sure they have consistent contact with Leancamp, so aren't repeating themselves or getting annoyed with multiple requests. 
+**Do this with the help of the Leancamp Leaders** as they already have these relationships so it's a friendlier ask and easier for everyone. This makes sure they have consistent contact with Leancamp, so aren't repeating themselves or getting annoyed with multiple requests.
 
 It’s usually best to save the big names for a Leancamp that isn’t the first in a city, when we have the bugs worked out, and have a bit more demand so can offer a bigger audience.
 
@@ -431,7 +431,7 @@ If you’ve seen it done and you’d like to give it try yourself, here are some
 . Embrace the messiness of the process.
 . Remember to get people to write their name and Twitter handle on their card.
 . At the beginning, people will get their cards wrong. That’s okay. Stop and help fix them on stage so everyone learns.
-. Be transparent. Do what you need to on stage, on mic. 
+. Be transparent. Do what you need to on stage, on mic.
 . Keep people being punchy. Urge them to finish up after 30 seconds. Cut them off after 60 by summarising their session.
 . Suggest fun and punchy session topics. People are bad at writing their own headlines. Summarise each of their explanations with a punchy topic they can write on their card.  If you’re not sure your title is correct, ask them.
 . If the board isn't full at the end of the morning planning session, that's fine. Just try to reschedule the existing sessions to be more heavily-weighted in the morning, and then tell everyone to come back for another short planning session after lunch.
@@ -462,7 +462,7 @@ We measure success in a few ways:
 
 ## Location selection
 We typically look for:
-. The venue is operated by people who already support startups and/or innovation. 
+. The venue is operated by people who already support startups and/or innovation.
 . Overall venue capacity, 60-200+ depending on our goal
 . One large room for everyone, either auditorium seating or open-plan. At 60 people, we can get by with common space if they're happy with the noise.  Beyond 80, we need an auditorium for everyone.
 . For every 40 people, a sound-isolated room with capacity for 30-40 people. Session rooms ideally are cabaret style or movable chairs and tables.
@@ -474,7 +474,7 @@ We typically look for:
 
 If any of these are not doable, there are budget implications, so go redo the budgets!
 
-## First ticket release 
+## First ticket release
 . event page created and tested w/ first speakers and all ambassadors
 . announced on Twitter
 . announced to email lists
@@ -498,7 +498,7 @@ If any of these are not doable, there are budget implications, so go redo the bu
 . A session on Customer Development
 . A session on metrics.
 . A session on a real MVP.
-. At least 1 session from each of the Ambassador communities present. 
+. At least 1 session from each of the Ambassador communities present.
 
 
 
@@ -517,45 +517,46 @@ If any of these are not doable, there are budget implications, so go redo the bu
 
 ## Supplies to order (2-3 weeks before)
  
-. Full-size floor camera tripods.1 for each room. (One of the Leaders will fly in with flip cams and SD cards.)
-. blue tack x 4 packs
-. Large index cards x 200 (for schedule board)
-. Small index cards x 2000 (for post ups)
-. Masking tape x 10 rolls
-. A4 sheets X 40 sheets per participant
-. Sharpies or fine-tip felt pens x 1 per participant
-. Name tags x 1 per participant
-. Pre-printed A0 schedule sheet x 5
-. 5-10 extension chords/power 
+* Full-size floor camera tripods.1 for each room. (One of the Leaders will fly in with flip cams and SD cards.)
+* blue tack x 4 packs -
+* [Large index cards](http://www.amazon.co.uk/Star-Record-Cards-Ruled-152x102mm/dp/B004VUU3Q6/ref=pd_sim_office_7?ie=UTF8&refRID=14HYR6GYJQW14MDA655T) x 200 (for schedule board)
+* [Small index cards](http://www.amazon.co.uk/Star-Record-Cards-Ruled-152x102mm/dp/B004VUU3Q6/ref=pd_sim_office_7?ie=UTF8&refRID=14HYR6GYJQW14MDA655T) x 2000 (for post ups)
+* Masking tape x 10 rolls
+* A4 sheets X 40 sheets per participant
+* Sharpies or fine-tip felt pens x 1 per participant
+* Name tags x 1 per participant
+* Pre-printed A0 schedule sheet x 5
+* 5-10 extension chords/power
+* Envelopes (for )
 (Always err on the side of over-ordering!)
 
 ## Catering order
 Getting catering outsourced allows us to focus on the event itself. Opt for higher-quality food and aim for a €25/person budget.
 
-. Unlimited coffee all day
-. Catering staff present for setup and serving (though we can augment serving staff with volunteers to save costs)
-. Vegetarian and vegan options
-. Coffee, tea, juice and continental breakfast
-. Several food options at lunch (better than pizza)
-. Snacks at the afternoon break, including juice
-. Optional beer starting in the afternoon (budget permitting)
+* Unlimited coffee all day
+* Catering staff present for setup and serving (though we can augment serving staff with volunteers to save costs)
+* Vegetarian and vegan options
+* Coffee, tea, juice and continental breakfast
+* Several food options at lunch (better than pizza)
+* Snacks at the afternoon break, including juice
+* Optional beer starting in the afternoon (budget permitting)
 
 Day before (on-site)
 
-. Access to laser printer
-. Access to cloakroom/ luggage room
-. Access to secure overnight storage for equipment
+* Access to laser printer
+* Access to cloakroom/ luggage room
+* Access to secure overnight storage for equipment
 room temperature control
-. extra bin bags
-. phone number for security
-. phone number for catering
-. phone number for building maintenance
-. phone number for wifi support
-. Check wifi works
-. Floorplans printed
+* extra bin bags
+* phone number for security
+* phone number for catering
+* phone number for building maintenance
+* phone number for wifi support
+* Check wifi works
+* Floorplans printed
 
 ## Leancamp Day Checklists
-.dapt times and number of people needed for each Leancamp.
+*dapt times and number of people needed for each Leancamp.
  
 ### Needed skills:
 . Audio/Video Recording and Management 
@@ -567,7 +568,7 @@ room temperature control
 Please arrive at 8am where we will have a detailed debrief but in the meantime you can see a summary of responsibilities below: 
 
 **Tip:** Assign and do the tasks in the order that the customer interacts with Leancamp.  So, start with the signs outside, then setup registration, then the main room, then the other rooms.  (This will keep everything low stress, and allow us leeway if we're running late.)
- 
+
 ### Arrival [All]
 8am for brief. (2 hours before event starts.) 
 In attendance:
@@ -584,13 +585,13 @@ After explaining all the different roles, and how the day should play out, alloc
 
 Camera setup  2 people (45 minutes)
 Setup tripods and cameras in each room:
-. recording in 720p.
-. 7 hours or recording time on card
-. Well-positioned for unobstructed view (usually to the side of the stage.)
-. Within 2-3 metres of speaker so sound is clear
-. Somewhere that nobody will block the line of site 
-. Plugged-in and have power!
-. Start recording now!
+* recording in 720p.
+* 7 hours or recording time on card
+* Well-positioned for unobstructed view (usually to the side of the stage.)
+* Within 2-3 metres of speaker so sound is clear
+* Somewhere that nobody will block the line of site
+* Plugged-in and have power!
+* Start recording now!
 
 
 ### Registration 2 people
@@ -602,12 +603,12 @@ Certain signs will need to be placed near the building to help people find Leanc
 
 There are pre-printed signs. The ones with Leancamp logos are there for you to draw arrows on. Get a felt marker for this.
 
-. Start in the parking lot and/or local transit point, then put up signs towards the building, then into the entrance and towards the registration. 
-. Put up a sign at registration to inform people we’re recording.  
-. Put up signs to point people to the main room from registration.
-. Put up signs to point people to each session room, and the cafe/food area, from the location of session board.
-. Draw a map of each room and photocopy it. Put one in front of each session room and a few near the session board.
-. Also, place do not enter signs on perimeter doors to prevent people wandering around the building or getting lost.  “Pivot here!” :)
+* Start in the parking lot and/or local transit point, then put up signs towards the building, then into the entrance and towards the registration. 
+* Put up a sign at registration to inform people we’re recording.  
+* Put up signs to point people to the main room from registration.
+* Put up signs to point people to each session room, and the cafe/food area, from the location of session board.
+* Draw a map of each room and photocopy it. Put one in front of each session room and a few near the session board.
+* Also, place do not enter signs on perimeter doors to prevent people wandering around the building or getting lost.  “Pivot here!” :)
 
 
 ### Catering co-ordinator - 1 head organiser
@@ -660,7 +661,7 @@ Between sessions, if sessions get too big for their room, send someone from the 
 Tweeting on the Leancamp account.  We want the @leancamp account to be the single source for all the Leancamp stuff happening on Twitter. Retweet ANY interesting updates on the #leancamp hashtag. (Watch out for spammers though - we’ll likely be trending!)
 
 Updates, room changes, retweeting others on the #leancamp hashtag, answering questions.
- 
+
 ### Photographer 1 person
 Action pictures and people are great. Also, please try to capture as many whiteboards and flipcharts and notes over peoples shoulder (with permission!) as possible, especially during sessions in case people want to take their stuff with them. After the event, somebody should collate and make a book out of it all.
 If you can, post live using tag #leancamp on Twitter and Flickr.
@@ -716,7 +717,7 @@ Leancamp is for us by us. One of our biggest steps in an effort to make organisi
 
 A few examples of how would-be sponsors can help instead:
 
-. Buy tickets!  If we're not hitting our sales targets, organisations can buy tickets to give away. 
+. Buy tickets!  If we're not hitting our sales targets, organisations can buy tickets to give away.
 . Send their talented people to share and run sessions. Turn them into ambassadors and they get the benefit of sponsoring without the cost!
 . Promote us! By becoming ambassadors and promoting us, they get the association in a more genuine way.
 
@@ -755,15 +756,8 @@ Also, you should try to be neutral in your assessment. Leancamp works because it
 5+ ambassadors to help with promo, topics and community. Usually around 5 ambassadors are quite involved, and there’s a list of 10 or so more Ambassadors on the email list who help out when they can.
 
 On the day:
-1-2 additional Leancamp Leaders in attendance 
-3-6 student volunteers 
+1-2 additional Leancamp Leaders in attendance
+3-6 student volunteers
 More Questions?
 
 Ask us!  http://leanca.mp/contact
-
-
-
-
-
-
-
