@@ -19,6 +19,8 @@ If you have any questions, please ask Sal or a Leancamp Leader.
 
 Thanks to you for organising a Leancamp!
 
+Thanks to the contributors to this guide: Ben Aldred, Ahmad Bakhiet.
+
 Thanks to Saul Albert and Nicky Smyth for co-founding Leancamp with me in those uncertain early days.
 
 Thanks to the Leancamp Leaders who’ve gotten involved since then, making so many contributions – organising, helping share knowledge, and helping steer Leancamp as it’s grown.
@@ -29,7 +31,7 @@ Thanks to Kevin Prince and Cristiano Betta, the organisers of Barcamp London, fo
 
 Thanks to Eduardo Comba (flickr: ecomba), Daniel Morris (flickr: anima), and wilgengebroed on ofey for sharing their photos.
 
-
+Salim Virani, Founder, Leancamp
 
 # Getting Started
 
