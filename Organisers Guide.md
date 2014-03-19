@@ -524,10 +524,12 @@ If any of these are not doable, there are budget implications, so go redo the bu
 * [Masking tape](http://www.amazon.co.uk/Masking-painting-decorating-garage-bodyshop/dp/B00534386Q/ref=sr_1_1?ie=UTF8&qid=1395158311&sr=8-1&keywords=Masking+tape) x 10 rolls
 * [A4 sheets](http://www.amazon.co.uk/Star-Office-Copier-Multifunctional-Ream-Wrapped/dp/B000I6QZNM/ref=sr_1_1?ie=UTF8&qid=1395158348&sr=8-1&keywords=A4+sheets)(prime) X 40 sheets per participant
 * [Sharpies](http://www.amazon.co.uk/s/?ie=UTF8&keywords=sharpie+pens&tag=googhydr-21&index=aps&hvadid=32594859905&hvpos=1t1&hvexid=&hvnetw=g&hvrand=2995424486417251717&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_4iqm29w446_b) or fine-tip felt pens x 1 per participant
-* [Name tags](http://www.amazon.co.uk/Star-Name-Badges-Landscape-40x75mm/dp/B000I2GRTS/ref=sr_1_4?s=officeproduct&ie=UTF8&qid=1395172735&sr=1-4&keywords=Name+tags) x 1 per participant
+* [Name tags](http://www.amazon.co.uk/Star-Name-Badges-Landscape-40x75mm/dp/B000I2GRTS/ref=sr_1_4?s=officeproduct&ie=UTF8&qid=1395172735&sr=1-4&keywords=Name+tags) x 2 per participant
 * Pre-printed A0 schedule sheet x 5
 * 5-10 extension chords/power
-* [A4 Envelopes](http://www.amazon.co.uk/s/?ie=UTF8&keywords=a4+envelopes&tag=googhydr-21&index=aps&hvadid=32594859905&hvpos=1t1&hvexid=&hvnetw=g&hvrand=15944906796893565254&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_8mjw7tc738_b)  (for the crowd-notes)
+* [A4 Document Wallets](http://www.amazon.co.uk/Pink-Plastic-Document-Wallet-Folder/dp/B00HR5LDGG/ref=lh_ni_t?ie=UTF8&psc=1&smid=A2MJ3DPGQHGAOO) x 8 per room (for the crowd-notes)
+* 
+
 (Always err on the side of over-ordering!)
 
 ## Catering order
