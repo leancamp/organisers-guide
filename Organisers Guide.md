@@ -115,8 +115,10 @@ If there's one group that is particularly strong, we don't want them to overwhel
 ## Putting your city on the map
 
 Global startup culture is becoming more networked and less top-down. There's a lot we can learn from Silicon Valley's example, but to succeed, we must build on our own strengths and on our own terms.
+
+Taking off the blinders that come from outside definitions of what makes a good startup, we find communities of other types of role models, and invite them to share.  In doing so, we give rise to locals - not just the usual suspects who are already known, but local unknowns who are on the rise and have something useful to teach us.
  
-Leancamp, like emerging startup communities, doesn’t play a zero-sum game. We draw on the best by embracing connections to other places.
+Leancamp, like emerging startup communities, doesn’t play a zero-sum game. We draw on the best by embracing connections to other places.  That way, Leancamp cities learn from thought leaders from other Leancamp cities, and in this grassroots way, both the people and the community itself become visible to the world.
 
 ## Benefits to the local community
 
@@ -133,33 +135,24 @@ There’s a growing list of notable startup leaders who will happily jump on a p
 
 The culture we want to encourage is of humility, acceptance that we all have a lot to learn, and of a practical attitude to what works, what doesn't and in what context.  
 
-It's great when we're graced by startup superheroes but that's a bonus.  They, just like everyone else, stand up and offer their session in the morning planning session.
+It's great when we're graced by startup superheroes but that's a bonus.  They, just like everyone else, stand up and offer their session in the morning planning session. It's a democratic system.
 
-This overrides the reverence we have to superstars, and allows us to focus on learning in context, from other who are 6 months or 1 year ahead of us, not just those who made it super-big.
+This overrides the reverence we have to superstars, and allows us to focus on learning something useful for us in our own context.  It's way more effective to learn from someone who is 6 months or 1 year ahead of us, not just those who made it super-big.
 
-This is how we get local stars like Andreas Klinger, Johanna Kollmann, Lukas Fittl and Tendayi Viki – people who keep strengthening their local startup community.
+This is how we get local stars like Andreas Klinger, Des Traynor, Stephen Rapoport, Johanna Kollmann, Lukas Fittl and Tendayi Viki – people who keep strengthening their local startup community.
 
 Leancamp builds community by identifying our emerging startup leaders, and giving them a platform to help others.
-
-
-
-
-
-
-
-
-
 
 
 # 6 ways Leancamp is different.
 ## We’re about knowledge-sharing - inclusive to all.
 
-We want to learn from each other. We want to seed a culture of sharing experiences, being open and humble about what doesn't work, and of seeking to learn from other communities rather than create cliques and exclusivity.  Leancamp played a big role in connecting entrepreneurship to user experience design, and Lean Startup to Business Model Generation.
+We want to learn from each other. We want to seed a culture of sharing experiences, being open and humble about what doesn't work, and of seeking to learn from other communities rather than create cliques and exclusivity. Leancamp played a big role in connecting entrepreneurship to user experience design, and Lean Startup to Business Model Generation.
 
 We want to continue this tradition of connecting communities.
 
 ## We highly value local and practical knowledge.  
- Connecting to others actually doing this stuff is hugely valuable.  It's the practitioners who push the state of the art, and they're right at home. External people add to this, help build excitement, and create international relationships into your city, but the real value is in engaging the local community in a new way.
+ Connecting to others actually doing this stuff is hugely valuable.  It's the doers who push the state of the art, and they're right at home. External people add to this, help build excitement, and create international relationships into your city, but the real value is in engaging the local community in a new way.
 
 ## No sponsors.
 
@@ -171,23 +164,31 @@ We’ve tried sponsorship in many formats in the past, and while, at first or in
 
 If people approach us to sponsor, that’s great! We can use their help. Check the FAQ for ways they can contribute.
 
+Every other type of sponsorship is effectively *selling our audience* which contravenes the ethos of *for us by us.* 
+
+Our customers are our participants, not corporate sponsors.
+
 ## Nobody gets paid.
 
 Not even if you wrote a book! :)
 
-This keeps things real and simple. With money off the table, we’re all aligned in a common community goal.
+This keeps things real and simple. With money off the table, we’re all aligned in a common community goal. Help people with their startups.
 
 
 ## People first.
 
-People are our atomic unit.  Not startups or methodologies or investment rounds or content.
+People are our core, measurable unit.  Not startups or methodologies or investment rounds or content.
 
 Our goal is to help people improve and achieve their goals, and help them find others who will help them on their journey. Thus, Leancamp puts a strong emphasis on people over everything else.  
- You won't see organisation logos all over Leancamp, instead we'll raise the profile of the people in those organisations who want to contribute. They are the champions that deserve to be heard, and people will only respect their organisations as a side-effect of respecting them.
+You won't see organisation logos all over Leancamp, instead we'll raise the profile of the people in those organisations who want to contribute. They are the champions that deserve to be heard, and people will only respect their organisations as a side-effect of respecting them.
 
-You also won't see people rallying around a certain approach. Instead, you see leaders describing where they're at now, and discussing what to improve.
+You also won't see people rallying around a certain approach. Instead, you see leaders describing where they're at now, and discussing what to improve. 
 
 You will likely see people with books to sell, or some equivalent! But the emphasis is on the author, not their product, and Leancamp gives them the freedom to make further contributions unconstrained by their previous publications. For example, Brant Cooper and Alex Osterwalder put on workshops at Leancamp that were new and experimental.
+
+So even though we'll attract Lean, Agile and Design leaders, the tone of conversation we need to create is more realistic than dogmatic.
+
+We keep it real at Leancamp.
 
 ## No room for egos.
 
@@ -209,11 +210,13 @@ Your main responsibility isn't to make a big event that makes money, it's to cre
 
 ## Where to focus to succeed.
 
-I can't stress this enough: our satisfaction scores plateau at 60 people. After that, making the event bigger will not make it better!
+Our satisfaction scores plateau at 60 people. After that, making the event bigger will not make it better!
 
-The size of the event will take care of itself over time.  Engage the right balance of communities, and your Leancamp will grow on it's own. Don't worry if the first Leancamp is small. If the people there benefit, word will spread. You'll create demand; next time will be easier.
+Again because it's important - a great Leancamp is around 60 to 100 people. Bigger is not better!
 
-So don’t kill yourself! Save your energy.
+The size of the event will take care of itself over time.  Engage the right balance of communities, and your Leancamp will grow on it's own. Don't worry if the first Leancamp is small. If the people there benefit, word will spread. You'll create demand; next time will be *so much* easier.
+
+So don’t stretch yourself to hit bigger numbers! Save your energy.
 
 # The Core Leancamp Process
 
@@ -221,9 +224,12 @@ Leancamp has a core process which has evolved over multiple events in different 
 
 ## Ideas & experiments
 
-That said, when we have ideas to improve things, we love to experiment! With experiments, we get the Leancamp Leaders involved and we need to apply the PMCA loop. That is, we'll test them with some controls and a fall-back position, and measure their effect overall to ensure they are delivering more value the Leancamp participants.
+Check in with Sal to talk though any experiments you want to run. He's seen a lot of them already and will guide you on where to stick to what works.
+
+When we have ideas to improve things, we love to experiment! With experiments, we get the Leancamp Leaders involved and we need to apply the PMCA loop. That is, we'll test them with some controls and a fall-back position, and measure their effect overall to ensure they are delivering more value the Leancamp participants.
 
 If they prove of benefit, we'll roll them into the core process for every city to benefit!
+
 
 ## Affordable Loss & Runway
 
