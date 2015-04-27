@@ -556,6 +556,8 @@ We measure success in a few ways:
 
 . For your events page, use the Leancamp site. It has integrations to our social media and other benefits that will save you a lot of duplicate effort.
 . For ticket sales, use our Eventbrite account. We have integrations and automated emails that will save a lot of trouble. Use them! They've been tweaked over time to avoid problems!
+. We're also setting up Mailchimp with email automations.
+. We have moved from Uservoice to Hackpad for online session discussions. Copy and paste the template into a Hackpad page for your event.
 
 # Checklists
 
