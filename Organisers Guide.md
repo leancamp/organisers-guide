@@ -323,6 +323,8 @@ By presenting a truely diverse set of speakers from the beginning, you'll be com
 
 It's okay if the speaker lineup becomes doesn't become more diverse later. The important thing is start as diverse as possible - it makes sure everyone feels welcome and able to contribute.
 
+For more on this and why it's necessary, see Keeping Balance below.
+
 # Learning from the metrics
  
 We email our waiting list and make noise, taking a close look at 2 numbers on our landing page:
@@ -398,6 +400,7 @@ Another rule of thumb is that we want 90%+ active *doers*. (Try to limit consult
 
 Here are a few rules of thumb that we aim for:
 . Around 50-60% actual startup founders.
+- Around 10-20% corporate.
 . At least 25%-50% female.
 . No more than 10% consultants. (Though up to 10% consultants is a positive thing, if they share their case studies.)
 . No more than 50% technical people.
@@ -408,7 +411,7 @@ For example, for Leancamp London 2 (2012), we aimed for:
 50% startup founders  - Lean Startup London group  - UCL and student enterprise societies  - Minibar / East London startuppers  - Social enterprises
 25% UX
 5% Scientists
-10% Suits (consultants, etc.)  
+10% Suits (consultants, corporates etc.)  
 10% Lean/Agile IT
 
 
