@@ -425,20 +425,20 @@ Having used these questions to explore, you'll start to get a sense of how your 
 
 Reach out to leaders in these different communities (thought-leaders, bloggers, event organisers, accelerators, etc.) that aren't necessarily connected to startups, but where mutual learning could be useful. For example, UX people tend to like working on startups, and startups can benefit from learning about UX. You can be creative here, and it's good to err on the side of being inclusive.
 
-## Using your Ambassador network
+## Using your Ambassador network to sell tickets
 
 The main goal of selling tickets is:
-. To reach the break-even point 
-. Once broken even, to achieve balance with multiple communities.
+- To reach the break-even point 
+- Once broken even, to achieve balance with multiple communities.
 
 We achieve balance at Leancamp by working closely with Ambassadors to different local communities, and by giving them access to discount tickets while public tickets are unavailable.  We look at who's bought tickets already and aim to sell more tickets to underrepresented communities in order to keep a good balance.
 
-For example, if you have a strong science industry or consulting industry in your city, getting an ambassador and possibly 1 "seeded" session, plus 5-10 participants from that community will make for a very unique Leancamp!
+For example, if you have a strong science industry or consulting industry in your city, getting an ambassador and possibly 1 "seeded" session, plus 5-10 participants from that community will make for a very unique Leancamp! It's likely that new approaches will emerge there - and your Leancamp will be known as the source.
 
-Ambassadors are useful to:
-. Work out what areas of learning will be interesting to their community, and what areas they would seek help from other communities. Leancamp is centreed around the startup community, but the Leancamp event benefits largely even when we act as "information brokers" between other communities.
-. Get the word out informally at the beginning. Twitter, personal emails, intros etc.
-. Get the word out in "scale mode." Once you've learned a topic that's interesting to their community, they can help get that message on email lists and through other organisations in their world.
+Your Ambassador network is a powerful resource.  Use it to:
+- Work out what areas of learning will be interesting to their community, and what areas they would seek help from other communities. Leancamp is centreed around the startup community, but the Leancamp event benefits largely even when we act as "information brokers" between other communities.
+- Get the word out informally at the beginning. Twitter, personal emails, intros etc.
+- Get the word out in "scale mode." Once you've learned a topic that's interesting to their community, they can help get that message on email lists and through other organisations in their world.
 
 We need to make ambassador connections early on, but it gets easier to get them involved as the event becomes closer, so keep trying! If some people haven’t been fully responsive, update them on our progress.
  
@@ -446,23 +446,14 @@ At any point, if you notice you're not hitting these balance guidelines, it's ti
 
 ## The mechanics of ticket releases
  
-We watch who's bought tickets, looking at:
-What code did they use? What did they say they were? Founder? UXer? Consultant? etc. (So we know what community they're from.)  What did they want to learn?
+We watch who's bought tickets, looking at
+- the discount code they used (since each ambassador gets a unique code)
+- how the ticket buer describes themself:  Founder? UXer? Consultant? etc. 
+- their learning goals
  
 Based on this, we know how we're tracking with balance, so we know who we want to invite more of. If a group is under-represented, we keep public tickets closed, but release special access codes for certain ambassadors to release publicly. (So, if we need more UXers or more people from Startup Group X, we give access codes to those ambassadors.) For a short period, say 2-3 days, they are the only ones who can buy tickets. These codes are usually for the cheapest Fast Mover price, even if that deadline has expired.
 
-A useful trick is to set a discount code for unlimited uses and no deadline, but announce them as only 5 tickets available so people act with urgency. (We’d probably extend the code anyways, so this just saves us the trouble.)
-
-
-
-
-
-
-
-
-
-
-
+A useful trick is to set a discount code for unlimited uses and no deadline, but announce them as only 5 tickets available so people act with urgency. (We’d probably extend the code anyways, so this just saves us the trouble. We can shut down the code whever we want if we have to.)
 
 
 
@@ -470,11 +461,11 @@ A useful trick is to set a discount code for unlimited uses and no deadline, but
 
 We want everyone to learn something immediately useful and applicable at Leancamp.
 
-The magic of Leancamp happens at the beginning of the day, when the community bubbles up and loads of people offer to run sessions. There has never been a Leancamp where the session board wasn't overfilled, with sessions popping into the break and meal-times!
+The magic of Leancamp happens at the beginning of the day, when the community bubbles up and loads of people offer to run sessions. There has never been a Leancamp where the session board wasn't full - though when we start, there are lulls.)
 
 Like most magic tricks, there's a certain preparation underlying it.
 
-We seed (eg. preplan) around 30% of the available sessions. This gets the momentum going for others to propose sessions and also allows us to make sure the event is good.
+We seed (eg. preplan) around 30% of the available sessions. We don't announce this though - it's more a personal connection with a few of the seed speakers, asking them to be prepared to step up first. This gets the momentum going for others to propose sessions while also making sure the event is good.
  
 We ask everyone who bought a ticket what they want to learn on the ticket purchase page in Eventbrite. Also add the Ambassadors suggestions to this. Now we have an idea of what sessions we need to seed even though they appear to be regular sessions in the open space planning.
  
@@ -493,11 +484,28 @@ This is a great discussion to involve some Leancamp Leaders. Their experience wi
 
 # Showtime! How the day runs
 
-The organising team arrives 2 hours before the start, normally at 8am and starts setup. By 9am, breakfast is being served and people are trickling in.
+The organising team arrives 2 hours before the start, normally at 8am and starts setup. 
+
+Volunteers are empowered to fix whatever needs fixing. Organisers run around to keep things on schedule, and can dip in to interesting sessions.
+
+By 9am, breakfast is being served and people are trickling in.
 
 The session planning starts at 10am.  Sessions run throughout the day, with ample breaks for people to mingle and deepen their connections with each other.
 
-Volunteers are empowered to fix whatever needs fixing. Organisers run around to keep things on schedule, and can dip in to interesting sessions.
+By 11am the sessions start, 30 minutes each with a 10-minute break in between. We schedule in lots of breaks, since the miggling time is really important for people to catch up with each other on things that were important to them but went by too quickly in the fast-paced sessions. Usually the schedule is timed like this:
+
+10am Planning Session
+11am Session 1
+11:40am Session 2
+12:20pm Session 3
+12:50 Lunch
+2pm Session 4
+2:40pm Session 5
+3:10 Coffee Break
+3:50 Session 6
+4:30 Session 7
+5:10 Wrap up
+
 
 The day ends with everyone wrapping up in the same room.  A show of hands of who learned something they CAN apply next week.  Another for those who WILL apply it next week. Feedback forms are handed out, and asked to be completed on the spot. While that happens, people are invited to stand up and quickly share something useful they learned.
 
