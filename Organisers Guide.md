@@ -166,6 +166,8 @@ If people approach us to sponsor, that’s great! We can use their help. Check t
 
 Every other type of sponsorship is effectively *selling our audience* which contravenes the ethos of *for us by us.* 
 
+The only exceptions to this is when Leancamp is run by an existing local organisation that already has *pre-existing* relationships with their sponsors - like a bigger conference that hosts Leancamp. This means that there is *no work* in getting sponsors, or in managing sponsor expectations for the Leancamp team.  The sponsorship money is provided by the parent organisation.
+
 Our customers are our participants, not corporate sponsors.
 
 ## Nobody gets paid.
@@ -239,13 +241,15 @@ Leancamp, like most startups and non-profits, can’t afford to lose money. Plus
 
 Our first learning goals is: **Is there enough demand for the event to break even?**
 
-Sit down with your Advisor and look at budgets of previous Leancamp together.  Come up with a budget for a minimal Leancamp for at least 60 people, and therefore, a discounted ticket price.
+Sit down with your Advisors and look at budgets of previous Leancamp together.  Come up with a budget for a minimal Leancamp for around 60 people. Work out a ticket price.  This will be promoted as a First Mover ticket - and will be the cheapest ticket we offer. 
 
-The MVP usually is no more than announcing Leancamp is coming, and naming one or two speakers. This should attract a core group of earlyvangelists who want to participate without knowing exactly who will be speaking. 
+The MVP usually is no more than announcing Leancamp is coming, and naming one or two speakers. This should attract a core group of true early adopters who want to participate without knowing exactly who will be speaking. 
 
 An important part of this is we are attracting good contributors and will make the event more valuable to everyone else.
 
 Selling these first tickets is our first real validation signal. Based on these revenues, we can make an informed decision of if we’re going to break even.
+
+If we can't break even on this,
 
 
 ## Planning by getting options
