@@ -545,16 +545,17 @@ Meet with their leader in advance to talk through the appropriate checklists wit
 
 We measure success in a few ways:
 
-. Firstly, we have a standard feedback form which includes the Sean Ellis Test and Net Promoter Score.  This gives us an indication of if we’re maintaining Product/Market Fit in new cities, and gives us some indication of how we’re improving.
+. Firstly, we have a standard feedback form which includes the Net Promoter Score (NPS). NPS isn't actually useful by itself since the responses are highly skewed in different cultures, but it will give you a sense of if you're improving over time.
 . If we run experiments with our format, we identify people who have been affected by them in the feedback form, and compare them to people who haven’t. This gives us an idea of if the experiment actually made the event more valuable to people overall.
-. We look for sessions that were popular, either in buzz, Twitter chatter or common in the final “what did you learn” session. This shows we’ve spotted a local leader.
+. We look for sessions that were popular, either in buzz, Twitter chatter or common in the final “what did you learn” session. This shows we’ve spotted a local leader - and a seed speaker for the master list. 
 . At the end of Leancamp, we do a show of hands to see how many people learned something helpful for an active problem that they can apply next week. We usually hit 95%+.
 . We’ve started to ask if anyone made a new connection that can help with a current problem. This will be a more important measurement as Leancamp grows.
+. We look through the feedback forms and tally keywords/topics that were mentioned. So what were the most common complaints and suggestions? Also we tally everyone who was a "top contribbutor"  The top 3 get added to the master seed speaker trello board.  
 
 # Resources
 
 . For your events page, use the Leancamp site. It has integrations to our social media and other benefits that will save you a lot of duplicate effort.
-. For ticket sales, use our Eventbrite account. Again, we have integrations and automated emails that will save a lot of trouble.
+. For ticket sales, use our Eventbrite account. We have integrations and automated emails that will save a lot of trouble. Use them! They've been tweaked over time to avoid problems!
 
 # Checklists
 
