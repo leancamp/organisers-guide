@@ -511,23 +511,25 @@ The day ends with everyone wrapping up in the same room.  A show of hands of who
 
 Applause. Everyone is directed to the pub!
 
-The volunteers and team gathers for a 10-minute retrospective. Somebody takes notes for the Leancamp Leaders. We clean up quickly, and join everyone else at the pub.
+The volunteers and team gathers for a 10-minute retrospective. Somebody takes notes for the other Leancamp Leaders. We clean up quickly, and join everyone else at the pub.
 
 ## Session Planning
 
+There's also a standard 10 minute talk to set the right tone.  Don't deviate from the deck that Sal made! Setting expectations, responsibiitiesn and principles within the community is important to make the day work.
 
+Then onto session planning - 
 
-Session planning is pretty easy once you get the hang of it.  If you haven’t seen it done before, get a Leancamp Leader to take that role. It’s very important to get right as it sets the tone for the day.
+Session planning is pretty easy once you get the hang of it.  If you haven’t seen it done before, get an experienced Leancamp Leader to take that role. It’s very important to get right as it sets the tone for the day.
 
 If you’ve seen it done and you’d like to give it try yourself, here are some tips:
 
 . It’s all about energy and excitement.  You need to exude happiness and interest in all the potential of the day. You need to be contagious!!!
 . There’s an intro deck covering the planning method and Leancamp ethos.  Do this fast, in less than 10 minutes, so you can get to the high-energy part of having everyone on stage.
 . Embrace the messiness of the process.
-. Remember to get people to write their name and Twitter handle on their card.
+. Remember to get people to write their name and social media contact on their card.
 . At the beginning, people will get their cards wrong. That’s okay. Stop and help fix them on stage so everyone learns.
-. Be transparent. Do what you need to on stage, on mic.
-. Keep people being punchy. Urge them to finish up after 30 seconds. Cut them off after 60 by summarising their session.
+. Be transparent. Do what you need to on stage, on mic. Expose the inner workings of the event. People will better understand it and contribute to it.
+. Keep people being punchy. Urge them to finish up after 30 seconds. Cut them off after 60 by stepping in and summarising their session idea.
 . Suggest fun and punchy session topics. People are bad at writing their own headlines. Summarise each of their explanations with a punchy topic they can write on their card.  If you’re not sure your title is correct, ask them.
 . If the board isn't full at the end of the morning planning session, that's fine. Just try to reschedule the existing sessions to be more heavily-weighted in the morning, and then tell everyone to come back for another short planning session after lunch.
 . Adjust the schedule as you go.  If you move any card, make sure you get the approval of that session’s host.
@@ -535,7 +537,7 @@ If you’ve seen it done and you’d like to give it try yourself, here are some
 
 ## Volunteer and logistics management
 
-It's best to recruit the a local student group, ideally an entrepreneurship club, who has already worked together. As organisers, you can then delegate most of the day’s logistics to the leader of the student group, who will already know everyone's strengths and will better at delegation and management.
+It's best to recruit a local student group, ideally an entrepreneurship club, who has already worked together. As organisers, you can then delegate most of the day’s logistics to the leader of the student group, who will already know everyone's strengths and will better at delegation and management.
 
 Meet with their leader in advance to talk through the appropriate checklists with them, and work with them as a pair on the preparation on the day.
 Measuring Success Overall
