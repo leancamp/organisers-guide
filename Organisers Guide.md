@@ -241,9 +241,9 @@ Leancamp, like most startups and non-profits, can’t afford to lose money. Plus
 
 Our first learning goals is: **Is there enough demand for the event to break even?**
 
-Sit down with your Advisors and look at budgets of previous Leancamp together.  Come up with a budget for a minimal Leancamp for around 60 people. Work out a ticket price.  This will be promoted as a First Mover ticket - and will be the cheapest ticket we offer. 
+Sit down with your Advisors and look at budgets of previous Leancamp together.  Come up with a budget for a minimal Leancamp for around 60 people. Work out a ticket price.  This will be promoted as a First Mover ticket - and will be the cheapest ticket we offer.  At this point, we'll announce the prices for later tickets.  Usually, First Mover tickets are around 50 EUR. Full price are 150 EUR and most tickets get sold at the mid-tier: 100 EUR.
 
-The MVP usually is no more than announcing Leancamp is coming, and naming one or two speakers. This should attract a core group of true early adopters who want to participate without knowing exactly who will be speaking. 
+The Leancamp MVP is no more than announcing Leancamp is coming, and naming one or two speakers. This should attract a core group of true early adopters who want to participate without knowing exactly who will be speaking. 
 
 An important part of this is we are attracting good contributors and will make the event more valuable to everyone else.
 
@@ -323,6 +323,9 @@ At first, both Organisers and Ambassadors should plan on a bit of time for Custo
 
 After the first ticket release, we should get to a point where we have a comfortable conversion rate, around 7-10% for now, as this will drop later when we reach out to people who aren't as personally connected to the event.
 
+Genrally, we've found these numbers to be good predictors and warning signs. If these benchmarks aren't accurate for your city, bring numbers from previous startup events in the same city to discuss with your advisors.
+
+
 ## Responding to low ticket sales
 
 If the conversion rate is low, below 7% early on or below 2-3% after the break-even point, then there's a problem. We don't understand the market well enough and we need our Ambassadors to get on the phone and talk to their people about the event. They need to do a little more talking to people to find out why their community isn't buying.  
@@ -347,13 +350,11 @@ Relaying on people to pay us later is recipe for a lot of stress and extra work 
 
 ## Iterating and improving
 
-Once we have enough extra cash to buy some more plane tickets, we invite and announce new leaders, both local and regional, known and unknown.  Start with the Seed Speakers list since they have given the best sessions in the past. When they attend, you know they'll make it a better Leancamp.
+Once we have enough extra cash to buy some more plane tickets, we invite and announce new speakers and leaders from other cities, both local and regional, known and unknown.  Start with the Seed Speakers list since they have given the best sessions in the past. When they attend, you know they'll make it a better Leancamp.
 
-At this point, we don’t need to worry about financial viability anymore, so we can turn our full attention create the best possible experience for our participants with the money from additional ticket sales.
+Past the break even point, we don’t need to sell more tickets, so we can turn our full attention create the best possible experience for our participants.  Extra ticket sales are still great - with that money, we can make some improvements - but our main focus can move from selling to curating. (The great thing here is that better curation will now lead to better sales since our marketing channels are functioning well.)
 
 As we release batches of tickets, we reduce the discount.  This pushes people to buy tickets sooner and allows us to add bigger costs based on the event’s momentum.
-
-Successful events start to profit, so we either improve the event, or pool it the Leancamp account for future events. The Leancamp account is transparent to all organisers and Leancamp Leaders.
 
 ## Big names
 
