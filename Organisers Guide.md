@@ -537,10 +537,11 @@ If you’ve seen it done and you’d like to give it try yourself, here are some
 
 ## Volunteer and logistics management
 
-It's best to recruit a local student group, ideally an entrepreneurship club, who has already worked together. As organisers, you can then delegate most of the day’s logistics to the leader of the student group, who will already know everyone's strengths and will better at delegation and management.
+It's best to recruit a local student group, ideally an entrepreneurship club, who has already worked together. As organisers, you can then delegate most of the day’s logistics to the leader of the student group, who will already know everyone's strengths and will be better at delegation and management.
 
 Meet with their leader in advance to talk through the appropriate checklists with them, and work with them as a pair on the preparation on the day.
-Measuring Success Overall
+
+# Measuring Success Overall
 
 We measure success in a few ways:
 
