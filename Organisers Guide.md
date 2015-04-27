@@ -104,7 +104,7 @@ Get an idea of necessary ticket prices and volumes to break even. You’ll plan 
 9. One month before the event, we assess our break-even position and make a *go or no go* decision.  If it's no go, we announce a postponement and refund everyone.  
 10. After Fast Mover tickets are sold, we look at who's attending and consider balancing the event out. 
 
-*Balance* is really important to make a good Leancamp.
+*Balance* is really important to make a good Leancamp. (There's a whole section on this below.)
 
 If there's one group that is particularly strong, we don't want them to overwhelm the event, so we release tickets access codes for discount tickets to underrepresented communities with the help of our Ambassadors.
 
@@ -305,11 +305,23 @@ Copy the board, then rename it to your city. Everyone on this board has be a Top
 
 3. Add more speaker ideas to your board.  The best additions won't be typical startup or Lean Startup people, but rising stars in other communities you want to connect. Ask your local ambassadors for ideas here.
 
-Save the bigger name invititations for when the event gets bigger.  (Most globally recognised names are happy to help, but only when the event is at least several hundred people.)
+Save the bigger name invititations for when the event gets bigger.  (Most globally recognised names are happy to help, but only when the event is at least several hundred people. See "Big Names" below.)
 
 4. Start inviting, keeping in mind your budget and the number of flights you can currently afford. Don't invite anyone unless you can afford their flight already!
 
 Some people will decline but offer to video call in.  **DO NOT DO VIDEO CALLS FOR TALKS.** They are a logistical nightmare, and are not interactive enough for Leancamp. Politely decline and explain that Leancamp is much more interactive and that we can't plan around a strong enough internet connection.
+
+
+5. Diversity is extremely important to create a truely powerful and notable Leancamp.  This stems from the principle that learning from people in different contexts gives us a broader perspective.
+
+To get diversity right, you need to start off by announcing speakers from all of the edge groups you want to be represented:
+- small communities of practice
+- gender
+- ethinicity
+
+By presenting a truely diverse set of speakers from the beginning, you'll be communicating *welcomeness* and *inclusiveness* to all, and plant the seeds of the Leancamp brand - as the place to learn from the most diverse sources.
+
+It's okay if the speaker lineup becomes doesn't become more diverse later. The important thing is start as diverse as possible - it makes sure everyone feels welcome and able to contribute.
 
 # Learning from the metrics
  
@@ -358,11 +370,15 @@ As we release batches of tickets, we reduce the discount.  This pushes people t
 
 ## Big names
 
-As we announce more and better-regnised names, it will attract people who just want to sit and listen, rather than participate.  So hold off on announcing the bigger names until later, when we have a good balance and a majority of eager contributors. (See MVP.)
+Announcing better-regnised names as speakers has a negative effect - it will attract people who just want to sit and listen, rather than participate.  This is the opposite of the early adopters we want - the people actually in-the-know enough to recognise the value in the community and the smaller names.
+
+Since Leancamp is good because it's peer to peer, it's those early adopters we need first.  They have something to share too.
+
+So hold off on announcing the bigger names until later, when we have a good balance and a majority of eager contributors. (See MVP.)
 
 When we have the size and can cover the cost of business class flights, we put the word out to internationally-recognised leaders to see if they’re interested and available.
 
-**Do this with the help of the Leancamp Leaders** as they already have these relationships so it's a friendlier ask and easier for everyone. This makes sure they have consistent contact with Leancamp, so aren't repeating themselves or getting annoyed with multiple requests.
+**Ask Sal to invite these people.** He already has these relationships so it's a friendlier ask, easier for everyone and more likely to get a yes. This also makes sure they have consistent contact with Leancamp, so we aren't repeating ourselves and annoying them with multiple requests.
 
 It’s usually best to save the big names for a Leancamp that isn’t the first in a city, when we have the bugs worked out, and have a bit more demand so can offer a bigger audience.
 
@@ -372,13 +388,13 @@ It’s usually best to save the big names for a Leancamp that isn’t the first 
  
 Balance is the key as you grow Leancamp.
 
-We want Leancamp to be a place where people learn novel things, and meet people they don't normally meet in their regular lives. This leads to the best feedback from Leancamp participants: "I met so many helpful people who I'd never meet anywhere else - and they're going to help me do X!" This helps strengthen all the communities involved.
+We want Leancamp to be a place where people learn new things, and meet people they don't normally meet in their regular lives. This leads to the best feedback from Leancamp participants: "I met so many helpful people who I'd never meet anywhere else - and they're going to help me do X!" This helps strengthen all the communities involved.
 
 If one particular community dominates Leancamp, our event will suffer. It will be hard to encourage an inclusive culture and hard to leave a legacy of spotting emerging local talent.
  
 Ideally, we'd aim for 50%-70% startups and 30-50% non-startups. Within the startup community, we also want to make sure there are multiple "cliques" so one group doesn't dominate.
  
-Another rule of thumb is that we want 90%+ active practitioners. (Try to limit consultants to 10% max as the event isn't well-suited for them and we've found that more than 10% consultants drags down the satisfaction ratings for them and everyone.)
+Another rule of thumb is that we want 90%+ active *doers*. (Try to limit consultants to 10% max as the event isn't well-suited for them and we've found that more than 10% consultants drags down the satisfaction ratings for them and everyone.)
 
 Here are a few rules of thumb that we aim for:
 . Around 50-60% actual startup founders.
