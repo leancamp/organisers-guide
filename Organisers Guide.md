@@ -249,16 +249,18 @@ An important part of this is we are attracting good contributors and will make t
 
 Selling these first tickets is our first real validation signal. Based on these revenues, we can make an informed decision of if we’re going to break even.
 
-If we can't break even on this,
+If we can't break even on this, we accept this as a signal from the market, and we need to go back to better understand the market before we try again.
 
 
 ## Planning by getting options
 
 Whether you’re asking a venue or speakers for availability dates, or considering topics for talks, or almost anything else, it’s important to always get a range of options.
 
-Making Leancamp work has many different moving parts. Making the best Leancamp possible comes from communicating options to others so we can select an optimum together. (For example, you don’t want to choose just one talk from a speaker, then find out if they had prepped a different talk, a whole new community would join us.  Or that we prematurely set a date, and that meant some great speakers couldn’t attend.)
+Making Leancamp work has many different moving parts. Making the best Leancamp possible comes from communicating options to others so we can select an optimum together. 
 
 For example, with venues, don't ask for a single date. Instead, get a range of possible dates from the venue, so we can narrow that down later based on other constraints (availability of speakers, other events popping up, other Leancamps bringing in speakers we can share, etc.)
+
+We're way more likely to get a great speaker lineup and great turnout by communicating date options, rather than just choosing a date in isolation.
 
 Don’t optimise by yourself. Communicate options frequently and promiscuously, to your Ambassadors and the Leancamp Leaders. Optimizations will appear.
 
@@ -270,21 +272,20 @@ Generally, we only work with venues operated by people who already support start
 
 Typically, we work with universities or training facilities. They're usually quite keen to work with us to be more closely connected with entrepreneurs, because they tend to be good citizens, and also because we offer their students authentic exposure to a leading entrepreneurial community.
 
-For universities, we normally offer an allocation of free tickets for their students, plus give even more students access as volunteers.
+For university entrepreneurship societies, we normally offer an allocation of free tickets for their students, plus give even more students access as volunteers.
 
 ### Getting the go from Hosting Partners
 
 As soon as you have your Advisor, we’re going to build a localised buzz around all our possible venue partners, letting them know who the prior hosts were and how they benefitted.
 
-We usually go with the first that comes back saying, "Great! Let's do it. What do you need?" This means they're a true partner and will align with us, work with us well and generally our life easier. (As opposed to people who don't get it and start treating it like a negotiation.)
+We usually go with the first that comes back saying, "Great! Let's do it. What do you need?" This means they're a true partner and will align with us, work with us well and generally make our life easier. (As opposed to people who don't think of it as a common goal and start treating it like a negotiation.)
 
 To get a venue partner in cities where we're not well-recognised, we need to do some social engineering. This has two parts:
 
 1. We create a sense of excitement. This is done by activating as many introduction as possible to the same people and organisations.  If a potential partner hears about us from more and more people, they are more likely to get excited about the possibility.  When people keep hearing about Leancamp, they know it'll be significant so are more likely to act. Name dropping our partners in other cities and our past supporters is helpful, but set expectations to be about building community, not having famous people show up.
-2. We create a sense of urgency. We are clear that we are approaching multiple partners, but there can be only one, and we'll work with whoever sees mutual benefit and wants to start right away. Universities are competitive so will often act on the basis of getting in first. (This can also backfire, so we must quickly emphasise the inclusive aspects later, and make specific efforts to include the faculty and community around venues that didn’t get to host.)
+2. We create a sense of urgency. We are clear that we are approaching multiple partners, but there can be only one, and we'll work with whoever sees mutual benefit and wants to start right away. Universities can be competitive so will often act on the basis of getting in first. (This can also backfire if they want to exclude their rivals, so we must quickly emphasise the inclusive aspects later, and make specific efforts to include the faculty and community around venues that didn’t get to host.)
 
-
-It's fine to email them cold, but ideally, you can get warm introductions through the ambassador network and the Leancamp Leaders, so share the list of venues with them.
+It's fine to email them cold, but ideally, you can get warm introductions through the ambassador network and the Leancamp Leaders, so share the list of your target venues with everyone on Slack in #leaders so we can find good connections in.
 
 # Learning from the metrics
  
@@ -292,9 +293,9 @@ We email our waiting list and make noise, taking a close look at 2 numbers on ou
 . The conversion rate 
 . The number of unique visitors 
 
-We watch these numbers from the beginning, and let them inform our Customer Development effort.
+We watch these numbers from the beginning, and let them inform our Customer Development efforts.
 
-At first, both Organisers and Ambassadors should plan on a bit of Customer Development, as we're trying to open a new market for Leancamp, so will need to understand our customers'  buying decisions and how we can make Leancamp valuable to them.
+At first, both Organisers and Ambassadors should plan on a bit of time for Customer Development, as we're trying to open a new market for Leancamp, so will need to understand our customers'  buying decisions and how we can make Leancamp valuable to them.
 
 After the first ticket release, we should get to a point where we have a comfortable conversion rate, around 7-10% for now, as this will drop later when we reach out to people who aren't as personally connected to the event.
 
