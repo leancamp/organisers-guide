@@ -7,19 +7,15 @@ This guide is intended for organisers of Leancamp, but we’re happy to support 
 
 The text of this guide is available under Creative Commons: Attribution-ShareAlike 3.0 Unported however various logos, images and trademarks may have been used to which rights are held by their respective owners. Please be careful to honour them.
 
-Since the Leancamp model is based on ticket sales, we depend on control of our name. **So until you’re named on our website as a Leancamp Organiser, please do not use the Leancamp name or associate with it for your event.**
-
 You’re welcome to join us and work with us, but unless you do, we don’t give permission to use our name, branding or endorsement. The Leancamp name, logos and brand are trademarks of Salim Virani.
 
-If you have any questions, please ask Sal or a Leancamp Leader.
+Since the Leancamp model is based on ticket sales, we depend on control of our name. **So until you’re named on our website as a Leancamp Organiser, please do not use the Leancamp name or associate with it for your event.**
 
-
+If you have any questions, please ask Sal.
 
 # Credits
 
-Thanks to you for organising a Leancamp!
-
-Thanks to the contributors to this guide: Ben Aldred, Ahmad Bakhiet.
+Thanks to the main contributors to this guide: Ben Aldred, Ahmad Bakhiet.
 
 Thanks to Saul Albert and Nicky Smyth for co-founding Leancamp with me in those uncertain early days.
 
@@ -37,46 +33,69 @@ Salim Virani, Founder, Leancamp
 
 Thanks for volunteering to organise Leancamp!
 
-We have a long-term view of supporting an internationally-connected, inter-disciplinary, inclusive community-centred around startups. Leancamp is for the startup community, by the startup community.
+Leancamp is for the startup community, by the startup community.
+
+There are 3 I's to keep in mind:
+
+- Internationally-connected
+- Interdisciplinary
+- Inclusive
+
+If you're leading a Leancamp, it's really more about curating and convening than organising.  We're going to bring together the *right* people to create a new environment that will make a contribution the global startup community.
 
 This means we make sure organisers have an as easy, stress-free time as possible – and can focus only on the needs of the community.
 
-So, Leancamp is radically different from most startup events. We’ve removed things like up-front payments, the need to get sponsors, and the need to build a big team.
+So, Leancamp is radically different from most startup events. **We’ve removed things like up-front payments, the need to get sponsors, and the need to build a big team.**
+
+**Important:** This guide is the culmination of a lot of diverse experience running Leancamp.  If you've run other events before, a lot of the Leancamp Way won't be the same as what you're used to.  Those that follow the guide tend to find Leancamp is less work and more value than other events.  Those that don't usually create more work for themselves and others. 
 
 The Quickstart will get you rolling, and you'll be able to learn as you go. As you do, you'll understand how the way we do things is going to save you a ton of time, and how you’ll be powerful catalyst in your startup community.
 
-# Quickstart
+The first thing you need is to get in touch with Sal.  He'll be your advisor.
 
-Here's a general idea of how things work overall. Your Advisor will help you learn the Leancamp Way as you go.
+
+# Quickstart (and overview)
+
+Here's a general idea of how things work overall. Sal will help you learn the Leancamp Way as you go.
 
 The first thing is to seek the easy path:
-1. Get a Leancamp Leader to help you. You can find them at a Leancamp, or ask Sal to make some intros.
+1. Get in touch with previous Leancamp Leaders to help you.  You'll find them on our Slack channel, and Sal can make intros if you'd like.  
 2. Contact local conferences to open partnership discussions. The basic idea is that conferences benefit from including Leancamp under their umbrella. They get:
 * a much stronger sense of community at their conference, because Leancamp runs first and sparks a lot of relationships between conference attendees.
 * stronger grassroots startup credibility, since Leancamp is a startup-friendly price and attracts well-respected founders and experts
 * access to a better set of speakers, since strong founders are often motivated to come to Leancamp more than more formal conferences
 
-
-
-
+We've had some serious successes here, starting with TNW conference, and most recently powering the 700-person Pirate Camp in Cologne!
 
 If the partnership route doesn't work out, here's plan B:
 
 1. Get 2-3 local organisers involved. Ideally, someone who's seen an open space before. You don't need a bigger team, yet.
-2. Start building the email list at http://www.wantworkshop.com/workshops/leancamp for your city. This is very important, as it'll make our lives much easier once the venue is confirmed and we need to sell the first tickets.
-3. Before moving on to the next steps, get Advisor on your team. Ask any Leancamp Leader or prior organiser if you know one. If not, ask Sal and he'll intro you. Your  Advisor's job is to provide continuity, so your Leancamp experience is consistent with other cities. They'll do this by being part of your core organisers team, included in your communication and meetings, your connection to the Leancamp Leaders group.
-4. Sit down with your Advisor for 20 minutes to plan a quick budget, and show you the budget of previous events.  Get an idea of necessary ticket prices and volumes to break even. You’ll plan out 2 more budgets, the "relax" point where we'll no longer need to hustle to sell tickets, and the maximim size, when we can add a lot of extras to make a better event. 
-5. Find a venue. Make requests to all possible Venue Partners at once.
+2. Start building the email list at http://leancamp.co for your city. This is very important, as it'll make our lives much easier once the venue is confirmed and we need to sell the first tickets. We can create a special link for you that defaults to your city name. (It's a standard Mailchimp form.)
+3. Before moving on to the next steps, you need Sal and another experienced Leancamp Leader on your team as advisors. Your  Advisor's job is to provide continuity, so your Leancamp experience is consistent with other cities. You'll talk to them on a regular schedule. 
+4. Sit down with your Advisors to walk you through the budget of previous events.  Then make your budget together.  This takes around 30-40 minutes. 
+
+Get an idea of necessary ticket prices and volumes to break even. You’ll plan out 2 more budgets, the "relax" point where we'll no longer need to hustle to sell tickets, and the maximim size, when we can add a lot of extras to make a better event. 
+
+5. Find a venue. Make requests to all possible Venue Partners at once. (We'll cover strategies and email templates later.)
 6. Start reaching out to invite local community leaders to be Leancamp Ambassadors.
-7. Once a date is set, announce the event and release Earlyvangelist tickets.
-8. Get the conversations going about topics. Setup your event as a category at leancamp.uservoice.com and encourage speakers and ambassadors to suggest sessions there.
-9. After Earlyvangelist tickets are sold, we look at who's attending and consider balancing the event out. If there's one group that is particularly strong, we don't want them to overwhelm the event, so we release tickets access codes for discount tickets to underrepresented communities with the help of our Ambassadors.
+7. Once a date is set, announce the event and release Fast Mover tickets. 
+8. Start the Countdown Automation for your city in Mailchimp. This will get the conversations going about topics. Setup your event as a category at leancamp.uservoice.com and encourage speakers and ambassadors to suggest sessions there.
+9. One month before the event, we assess our break-even position and make a *go or no go* decision.  If it's no go, we announce a postponement and refund everyone.  
+10. After Fast Mover tickets are sold, we look at who's attending and consider balancing the event out. 
+
+*Balance* is really important to make a good Leancamp.
+
+If there's one group that is particularly strong, we don't want them to overwhelm the event, so we release tickets access codes for discount tickets to underrepresented communities with the help of our Ambassadors.
+
+11. The event itself is quite easy to run. You'll need a team of 6 volunteers, and can usually get them through a local university. There's be a bit of preparation the week before for catering, and the day before for the venue.  All of that is easy - just follow the checklists.
 
 # What is Leancamp?
 
-Leancamp is an open, interactive, multi-track event – which connects Lean, Agile and Design-led practitioners. It’s a high-energy day focused on broad learning and knowledge transfer.
+Leancamp is an open, interactive, multi-track event – which connects people who *actually do* Lean to the *doers* in related areas of practice. It’s a high-energy day focused on broad learning and helping each other.
 
-Leancamp is a bustling conference, with tons of rooms and fast, 30-minute sessions on different topics. Sessions can be talks, workshops, discussions, or other interactive formats. The difference is that the sessions are planned by the participants that day!
+Leancamp is a bustling conference, with tons of rooms and fast, 30-minute sessions on different topics. Sessions are usually a short talk followed by a discussion, but are often workshops or other interactive formats. 
+
+The difference from a standard conference is that the sessions are planned by the participants that day!
 
 Everyone has the power over the agenda, to contribute their experience, and to interact with thought-leaders and experienced founders. Participants drive the topics based on their needs.
 
@@ -270,7 +289,7 @@ Your Advisor will be able to draw on previous Leancamp experiences to shed light
 
 ## The point of no return
 
-If our Earlyvangelist tickets don’t sell well, can learn and adapt.  If we have less than a 4-6 weeks though, we have to discuss if we should cancel or postpone the event, and refund everyone. This gives us a safe point of no return.
+If our Fast Mover tickets don’t sell well, can learn and adapt.  If we have less than a 4-6 weeks though, we have to discuss if we should cancel or postpone the event, and refund everyone. This gives us a safe point of no return.
 
 If we cross it, we should be confident we won't lose money and we know the event will be a success. So we can try to grow and improve it, but it's all upside!
 
@@ -364,7 +383,7 @@ At any point, if you notice you're not hitting these balance guidelines, it's ti
 We watch who's bought tickets, looking at:
 What code did they use? What did they say they were? Founder? UXer? Consultant? etc. (So we know what community they're from.)  What did they want to learn?
  
-Based on this, we know how we're tracking with balance, so we know who we want to invite more of. If a group is under-represented, we keep public tickets closed, but release special access codes for certain ambassadors to release publicly. (So, if we need more UXers or more people from Startup Group X, we give access codes to those ambassadors.) For a short period, say 2-3 days, they are the only ones who can buy tickets. These codes are usually for the cheapest Earlyvangelist price, even if that deadline has expired.
+Based on this, we know how we're tracking with balance, so we know who we want to invite more of. If a group is under-represented, we keep public tickets closed, but release special access codes for certain ambassadors to release publicly. (So, if we need more UXers or more people from Startup Group X, we give access codes to those ambassadors.) For a short period, say 2-3 days, they are the only ones who can buy tickets. These codes are usually for the cheapest Fast Mover price, even if that deadline has expired.
 
 A useful trick is to set a discount code for unlimited uses and no deadline, but announce them as only 5 tickets available so people act with urgency. (We’d probably extend the code anyways, so this just saves us the trouble.)
 
