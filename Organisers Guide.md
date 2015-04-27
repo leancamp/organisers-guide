@@ -1,6 +1,5 @@
 # Organisers’ Guide
 
-
 # Open Source
 
 This guide is intended for organisers of Leancamp, but we’re happy to support other events, in and out of entrepreneurship. Feel free to use our techniques and to ask us for support.
@@ -53,6 +52,28 @@ The Quickstart will get you rolling, and you'll be able to learn as you go. As y
 
 The first thing you need is to get in touch with Sal.  He'll be your advisor.
 
+# What is Leancamp?
+
+Leancamp is an open, interactive, multi-track event – which connects people who *actually do* Lean to the *doers* in related areas of practice. It’s a high-energy day focused on broad learning and helping each other.
+
+Leancamp is a bustling conference, with tons of rooms and fast, 30-minute sessions on different topics. Sessions are usually a short talk followed by a discussion, but are often workshops or other interactive formats. 
+
+The difference from a standard conference is that the sessions are planned by the participants that day!
+
+Everyone has the power over the agenda, to contribute their experience, and to interact with thought-leaders and experienced founders. Participants drive the topics based on their needs.
+
+We use a technique known as Open Space, which is what Unconferences and Barcamps use.
+
+Leading up to Leancamp, participants share what sessions they'd like to host. Leancamp starts with an empty schedule. People come on stage to explain their session for 30 seconds, and choose a place and time from the empty slots. An hour later, we have a conference built for and by the participants! (It works like magic - we'll teach you how to do this magic trick!)
+
+## Why is Leancamp valuable?
+
+This format does a number of things:
+1. It helps people where they need help now.  The topics are way more relevant than a conference.
+2. It brings different communities together to reveal new and unique approaches. For example, Lean Startup, Business Model Design and UX all came together at Leancamp.
+3. It creates strong and useful local relationships, the bedrock of a new community. This is valuable for conferences and new startup communities.
+4. It gives rise to local thought leadership, and in doing so, creates recognition for smaller communities on a global stage.
+
 
 # Quickstart (and overview)
 
@@ -88,20 +109,6 @@ Get an idea of necessary ticket prices and volumes to break even. You’ll plan 
 If there's one group that is particularly strong, we don't want them to overwhelm the event, so we release tickets access codes for discount tickets to underrepresented communities with the help of our Ambassadors.
 
 11. The event itself is quite easy to run. You'll need a team of 6 volunteers, and can usually get them through a local university. There's be a bit of preparation the week before for catering, and the day before for the venue.  All of that is easy - just follow the checklists.
-
-# What is Leancamp?
-
-Leancamp is an open, interactive, multi-track event – which connects people who *actually do* Lean to the *doers* in related areas of practice. It’s a high-energy day focused on broad learning and helping each other.
-
-Leancamp is a bustling conference, with tons of rooms and fast, 30-minute sessions on different topics. Sessions are usually a short talk followed by a discussion, but are often workshops or other interactive formats. 
-
-The difference from a standard conference is that the sessions are planned by the participants that day!
-
-Everyone has the power over the agenda, to contribute their experience, and to interact with thought-leaders and experienced founders. Participants drive the topics based on their needs.
-
-We use a technique known as Open Space, which is what Unconferences and Barcamps use.
-
-Leading up to Leancamp, participants share what sessions they'd like to host. Leancamp starts with an empty schedule. People come on stage to explain their session for 30 seconds, and choose a place and time from the empty slots. An hour later, we have a conference built for and by the participants! (It works like magic - we'll teach you how to do this magic trick!)
 
 # Leancamp Community Ethos
 
