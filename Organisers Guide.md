@@ -287,6 +287,30 @@ To get a venue partner in cities where we're not well-recognised, we need to do 
 
 It's fine to email them cold, but ideally, you can get warm introductions through the ambassador network and the Leancamp Leaders, so share the list of your target venues with everyone on Slack in #leaders so we can find good connections in.
 
+
+## Picking speakers
+The idea of "a speaker" is really different at Leancamp.
+
+Speakers don't prepare talks and aren't chosen on their oratory skills.
+
+Instead, with the help of local community ambassadors we choose speakers based on their *experience* and how it can be useful to others.
+
+Instead of preparing a talk, we ask them to think of 2 or 3 topics with personal stories they can tell. We'll let the audience chose on the day, and the stories really only need to be 5 to 10 minutes long.  The real value in the session will come from the 20 minutes discussion that emerges.
+
+1. Start by asking local ambassadors for local role models with interesting and unique experiences to share.
+
+2. Then gain access to the Master Seed Speakers Board we have in the Leancamp Trello account.  (Your advisors can give you access.) 
+
+Copy the board, then rename it to your city. Everyone on this board has be a Top 3 speaker at a previous Leancamp.  You can delete speakers you don't want to invite. 
+
+3. Add more speaker ideas to your board.  The best additions won't be typical startup or Lean Startup people, but rising stars in other communities you want to connect. Ask your local ambassadors for ideas here.
+
+Save the bigger name invititations for when the event gets bigger.  (Most globally recognised names are happy to help, but only when the event is at least several hundred people.)
+
+4. Start inviting, keeping in mind your budget and the number of flights you can currently afford. Don't invite anyone unless you can afford their flight already!
+
+Some people will decline but offer to video call in.  **DO NOT DO VIDEO CALLS FOR TALKS.** They are a logistical nightmare, and are not interactive enough for Leancamp. Politely decline and explain that Leancamp is much more interactive and that we can't plan around a strong enough internet connection.
+
 # Learning from the metrics
  
 We email our waiting list and make noise, taking a close look at 2 numbers on our landing page:
@@ -299,7 +323,9 @@ At first, both Organisers and Ambassadors should plan on a bit of time for Custo
 
 After the first ticket release, we should get to a point where we have a comfortable conversion rate, around 7-10% for now, as this will drop later when we reach out to people who aren't as personally connected to the event.
 
-If the conversion rate is low, below 7% early on or below 2-3% after the break-even point, then we need our Ambassadors to get on the phone and talk to their people about the event. They need to do a little more Customer Development to find out why people in their community aren't buying.  
+## Responding to low ticket sales
+
+If the conversion rate is low, below 7% early on or below 2-3% after the break-even point, then there's a problem. We don't understand the market well enough and we need our Ambassadors to get on the phone and talk to their people about the event. They need to do a little more talking to people to find out why their community isn't buying.  
 
 If the conversion rate is healthy but unique visitors is low, there's an awareness problem, so talk to Ambassadors about what we can do to spread the word better. We probably have to make more noise and reach out to more ambassadors and build more awareness channels. Get the word out on more email lists, blogs, announcements at events, event listings, etc.
 
@@ -307,7 +333,7 @@ Your Advisor will be able to draw on previous Leancamp experiences to shed light
 
 ## The point of no return
 
-If our Fast Mover tickets don’t sell well, can learn and adapt.  If we have less than a 4-6 weeks though, we have to discuss if we should cancel or postpone the event, and refund everyone. This gives us a safe point of no return.
+If our Fast Mover tickets don’t sell well, we can learn and adapt.  If we have less than a 4-6 weeks though, we have to discuss if we should cancel or postpone the event, and refund everyone. This gives us a safe point of no return.
 
 If we cross it, we should be confident we won't lose money and we know the event will be a success. So we can try to grow and improve it, but it's all upside!
 
@@ -317,9 +343,11 @@ If we cross it, we should be confident we won't lose money and we know the event
 
 After the break-even point, we only incur costs that we can pay for with money already collected. This not only makes the event break-even, but also cashflow-positive, which makes our lives a lot easier.
 
+Relaying on people to pay us later is recipe for a lot of stress and extra work later. Avoid this situation and only rely on up-front revenue.
+
 ## Iterating and improving
 
-Once we have enough cash to buy some more plane tickets, we invite and announce new leaders, both local and regional, known and unknown.  Start with the Leancamp Leaders since they will seed good sessions.
+Once we have enough extra cash to buy some more plane tickets, we invite and announce new leaders, both local and regional, known and unknown.  Start with the Seed Speakers list since they have given the best sessions in the past. When they attend, you know they'll make it a better Leancamp.
 
 At this point, we don’t need to worry about financial viability anymore, so we can turn our full attention create the best possible experience for our participants with the money from additional ticket sales.
 
