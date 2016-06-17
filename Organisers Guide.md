@@ -2,15 +2,22 @@
 
 # Open Source
 
-This guide is intended for organisers of Leancamp, but we’re happy to support other events, in and out of entrepreneurship. Feel free to use our techniques and to ask us for support.
+This guide is intended for Source unconference organisers, but we’re happy to support other events, in and out of entrepreneurship. Feel free to use our techniques and to ask us for support.
 
 The text of this guide is available under Creative Commons: Attribution-ShareAlike 3.0 Unported however various logos, images and trademarks may have been used to which rights are held by their respective owners. Please be careful to honour them.
 
 You’re welcome to join us and work with us, but unless you do, we don’t give permission to use our name, branding or endorsement. The Leancamp name, logos and brand are trademarks of Salim Virani.
 
-Since the Leancamp model is based on ticket sales, we depend on control of our name. **So until you’re named on our website as a Leancamp Organiser, please do not use the Leancamp name or associate with it for your event.**
+Since our financial viability is based on ticket sales, we depend on legal control and protection of our name. **So until you’re named on our website as a Source Organiser, please do not use the Source Institute, Leancamp or any other of our unconference brand names.**
 
-If you have any questions, please ask Sal.
+If you have any questions, please ask. 
+
+We're at hello@source.institute
+
+Thanks,
+
+Salim Virani
+Founder, Source Institute
 
 # Credits
 
@@ -26,47 +33,70 @@ Thanks to Kevin Prince and Cristiano Betta, the organisers of Barcamp London, fo
 
 Thanks to Eduardo Comba (flickr: ecomba), Daniel Morris (flickr: anima), and wilgengebroed on ofey for sharing their photos.
 
-Salim Virani, Founder, Leancamp
+# A short background on unconferences
 
-# Getting Started
+Unconferences are based on a format originally described as Open Space Technology.  These techniques were used by Tim O'Reilly (the book publisher) for an event where he hand-picked thought leaders to teach each other.  That was called FooCamp.  But FooCamp wasn't open, so a group led by Tantek Celik created an open, inclusive, community-led alternative called Barcamp.
 
-Thanks for volunteering to organise Leancamp!
+Barcamp was completely open - anyone could run one without any prior approvals. Just go!  And Barcamp spread around the world.
 
-Leancamp is for the startup community, by the startup community.
+At Source Institute, we build off the foundations of Barcamp, and share a lot of the values and principles of the Barcamp community.
+
+We've built on them in some ways - by modifying the financial model to help organisers focus on the community, and introducing new principles that spur different types of learning.
+
+# The Source Way
+
+This guide is about unconferences that are designed and curated for practical, peer-to-peer education.
+
+Unconferences are for the community, by the community. 
 
 There are 3 I's to keep in mind:
 
-- Internationally-connected
+- International
 - Interdisciplinary
 - Inclusive
 
-If you're leading a Leancamp, it's really more about curating and convening than organising.  We're going to bring together the *right* people to create a new environment that will make a contribution the global startup community.
+If you're leading an unconference, it's really more about curating and convening than organising.  We're going to bring together the *right* people to create a new environment that will make a contribution the global startup community.
 
 This means we make sure organisers have an as easy, stress-free time as possible – and can focus only on the needs of the community.
 
-So, Leancamp is radically different from most startup events. **We’ve removed things like up-front payments, the need to get sponsors, and the need to build a big team.**
+To do this, we pay close attention to *remove* any aspect of the event that can take time, attention, or resources from the immediate learning needs of the unconference constituents. 
 
-**Important:** This guide is the culmination of a lot of diverse experience running Leancamp.  If you've run other events before, a lot of the Leancamp Way won't be the same as what you're used to.  Those that follow the guide tend to find Leancamp is less work and more value than other events.  Those that don't usually create more work for themselves and others. 
+These are things that appear to be beneficial and doable up-front but too-often turn into commitments that create unexpected distractions and liabilities:
 
-The Quickstart will get you rolling, and you'll be able to learn as you go. As you do, you'll understand how the way we do things is going to save you a ton of time, and how you’ll be powerful catalyst in your startup community.
+* sponsors
+* large teams
+* event operations
 
-The first thing you need is to get in touch with Sal.  He'll be your advisor.
+This guide is the culmination of a lot of diverse experience running Leancamp and Source Summit. 50+ times in 30+ cities, over 6 years, spanning from London to Nairobi to San Francisco to Hanoi.  
 
-# What is Leancamp?
+We're a volunteer group who values our time, and has narrowed our way of working around relevance to our participants.
 
-Leancamp is an open, interactive, multi-track event – which connects people who *actually do* Lean to the *doers* in related areas of practice. It’s a high-energy day focused on broad learning and helping each other.
+If you've run other events before, a lot of the Source Way won't be the same as what you're used to.  Those that follow the guide tend to find Source is less work and more value than other events. 
 
-Leancamp is a bustling conference, with tons of rooms and fast, 30-minute sessions on different topics. Sessions are usually a short talk followed by a discussion, but are often workshops or other interactive formats. 
+This guide will get you rolling, and you'll be able to learn as you go. As you do, you'll understand how the way we do things is going to save you a ton of time, and how you’ll be powerful catalyst in your community.
+
+There's a lot packed in here, so it's best to scan this guide again from time to time, especially if you're stuck or stressed.  A lot of it will be forgettable until you've had some experience - then, it'll make perfect sense.
+
+If you're running a Source event, like Leancamp, your first step is to get an advisor.  Email robin@source.institute and he'll get you connected.
+
+
+# What are Summits?
+
+Summits are an open, interactive, multi-track events – which connects people who *actually do* to the *doers* in related areas of practice. It’s a high-energy day focused on broad learning and helping each other.
+
+Summits are like a bustling conference, with tons of rooms and fast, 30-minute sessions on different topics. Sessions are usually a short talk followed by a discussion, workshops or other interactive formats. 
 
 The difference from a standard conference is that the sessions are planned by the participants that day!
 
 Everyone has the power over the agenda, to contribute their experience, and to interact with thought-leaders and experienced founders. Participants drive the topics based on their needs.
 
-We use a technique known as Open Space, which is what Unconferences and Barcamps use.
+Leading up to larger Summits, participants share what sessions they'd like to host. 
 
-Leading up to Leancamp, participants share what sessions they'd like to host. Leancamp starts with an empty schedule. People come on stage to explain their session for 30 seconds, and choose a place and time from the empty slots. An hour later, we have a conference built for and by the participants! (It works like magic - we'll teach you how to do this magic trick!)
+It starts with an empty schedule. People come on stage to explain their session for 30 seconds, and choose a place and time from the empty slots. 
 
-## Why is Leancamp valuable?
+Less than an hour later, we have a conference built for and by the participants! (It works like magic - we'll teach you how to do this magic trick!)
+
+## Why are Summits valuable?
 
 This format does a number of things:
 1. It helps people where they need help now.  The topics are way more relevant than a conference.
